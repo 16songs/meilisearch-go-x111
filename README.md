@@ -1,5 +1,5 @@
 # Fork
-use v0.24.0 to access server meilisearch:1.1.1
+use v0.24.1 to access server meilisearch:1.1.1
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meilisearch/integration-guides/main/assets/logos/meilisearch_go.svg" alt="Meilisearch-Go" width="200" height="200" />
