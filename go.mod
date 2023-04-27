@@ -1,4 +1,4 @@
-module github.com/meilisearch/meilisearch-go
+module github.com/16songs/meilisearch-go-x111
 
 go 1.16
 
